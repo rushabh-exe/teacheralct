@@ -1,0 +1,297 @@
+2024-02-18T09:02:17.549Z - info: Server is running on port 3000
+2024-02-18T09:03:29.880Z - info: Server is running on port 3000
+2024-02-18T09:03:47.056Z - info: Server is running on port 3000
+2024-02-18T09:04:48.794Z - info: Server is running on port 3000
+2024-02-18T09:05:03.769Z - info: Server is running on port 3000
+2024-02-18T10:21:13.503Z - info: Server is running on port 3000
+2024-02-18T10:21:15.804Z - error: An error occurred: TypeError: seatService.getAvailableSeats is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:46)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:16.349Z - info: Server is running on port 3000
+2024-02-18T10:25:23.963Z - info: Server is running on port 3000
+2024-02-18T10:25:28.372Z - error: Error fetching available classroom:
+2024-02-18T10:25:28.373Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:28.841Z - error: Error fetching available classroom:
+2024-02-18T10:25:28.842Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.000Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.001Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.176Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.177Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.321Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.321Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.480Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.481Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.626Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.627Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.770Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.770Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:29.915Z - error: Error fetching available classroom:
+2024-02-18T10:25:29.915Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:30.042Z - error: Error fetching available classroom:
+2024-02-18T10:25:30.042Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:34.298Z - error: Error fetching available classroom:
+2024-02-18T10:25:34.299Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:34.441Z - error: Error fetching available classroom:
+2024-02-18T10:25:34.442Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:34.873Z - error: Error fetching available classroom:
+2024-02-18T10:25:34.873Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:35.017Z - error: Error fetching available classroom:
+2024-02-18T10:25:35.018Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:25:35.401Z - error: Error fetching available classroom:
+2024-02-18T10:25:35.401Z - error: An error occurred: Error: Failed to fetch available classroom
+    at exports.getAvailableclassroom (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:32)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:27:16.722Z - info: Server is running on port 3000
+2024-02-18T10:27:37.505Z - info: Server is running on port 3000
+2024-02-18T10:29:01.966Z - info: Server is running on port 3000
+2024-02-18T10:34:41.051Z - info: Server is running on port 3000
+2024-02-18T10:34:48.874Z - info: Server is running on port 3000
+2024-02-18T10:34:53.526Z - error: Error fetching available classrooms:
+2024-02-18T10:34:53.527Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:54.276Z - error: Error fetching available classrooms:
+2024-02-18T10:34:54.277Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:54.437Z - error: Error fetching available classrooms:
+2024-02-18T10:34:54.438Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:54.596Z - error: Error fetching available classrooms:
+2024-02-18T10:34:54.597Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:54.726Z - error: Error fetching available classrooms:
+2024-02-18T10:34:54.727Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:54.884Z - error: Error fetching available classrooms:
+2024-02-18T10:34:54.884Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:58.218Z - error: Error fetching available classrooms:
+2024-02-18T10:34:58.219Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:58.377Z - error: Error fetching available classrooms:
+2024-02-18T10:34:58.378Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:34:58.488Z - error: Error fetching available classrooms:
+2024-02-18T10:34:58.488Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:14.095Z - error: Error fetching available classrooms:
+2024-02-18T10:35:14.096Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:14.691Z - error: Error fetching available classrooms:
+2024-02-18T10:35:14.691Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:14.832Z - error: Error fetching available classrooms:
+2024-02-18T10:35:14.833Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:33.485Z - error: Error fetching available classrooms:
+2024-02-18T10:35:33.486Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:33.604Z - error: Error fetching available classrooms:
+2024-02-18T10:35:33.604Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:46.283Z - info: Server is running on port 3000
+2024-02-18T10:35:48.516Z - error: Error fetching available classrooms:
+2024-02-18T10:35:48.517Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:48.809Z - error: Error fetching available classrooms:
+2024-02-18T10:35:48.811Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:48.935Z - error: Error fetching available classrooms:
+2024-02-18T10:35:48.936Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:49.079Z - error: Error fetching available classrooms:
+2024-02-18T10:35:49.080Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:49.207Z - error: Error fetching available classrooms:
+2024-02-18T10:35:49.208Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:35:49.335Z - error: Error fetching available classrooms:
+2024-02-18T10:35:49.335Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:36:42.879Z - error: Error fetching available classrooms:
+2024-02-18T10:36:42.879Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:37:33.553Z - info: Server is running on port 3000
+2024-02-18T10:37:38.751Z - error: Error fetching available classrooms:
+2024-02-18T10:37:38.752Z - error: An error occurred: Error: Failed to fetch available classrooms
+    at exports.getAvailableclassrooms (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\classroomService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:7:33)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:38:23.785Z - info: Server is running on port 3000
+2024-02-18T10:38:27.986Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:20:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:38:28.320Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:20:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:38:28.466Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:20:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:38:31.769Z - info: Server is running on port 3000
+2024-02-18T10:38:43.731Z - info: Server is running on port 3000
+2024-02-18T10:38:45.863Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:20:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:38:46.197Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:20:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:38:46.343Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:20:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:39:43.662Z - info: Server is running on port 3000
+2024-02-18T10:40:04.708Z - info: Server is running on port 3000
+2024-02-18T10:40:07.428Z - error: An error occurred: ReferenceError: availableclassroom is not defined
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:63)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:40:07.720Z - error: An error occurred: ReferenceError: availableclassroom is not defined
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:63)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:40:07.945Z - error: An error occurred: ReferenceError: availableclassroom is not defined
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:63)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T10:40:10.525Z - info: Server is running on port 3000
+2024-02-18T10:42:08.380Z - info: Server is running on port 3000
+2024-02-18T10:42:22.505Z - info: Server is running on port 3000
+2024-02-18T10:42:32.809Z - info: Server is running on port 3000
+2024-02-18T10:42:43.651Z - info: Server is running on port 3000
+2024-02-18T10:42:56.048Z - info: Server is running on port 3000
+2024-02-18T10:43:06.723Z - info: Server is running on port 3000
+2024-02-18T10:43:14.512Z - info: Server is running on port 3000
+2024-02-18T10:43:37.808Z - info: Server is running on port 3000
