@@ -23,11 +23,32 @@ const teachers = [
     "Teacher 19",
     "Teacher 20"
 ];
-
+const subteachers = [
+    "subteachersss 1",
+    "subteachersss 2",
+    "subteachersss 3",
+    "subteachersss 4",
+    "subteachersss 5",
+    "subteachersss 6",
+    "subteachersss 7",
+    "subteachersss 8",
+    "subteachersss 9",
+    "subteachersss 10",
+    "subteachersss 11",
+    "subteachersss 12",
+    "subteachersss 13",
+    "subteachersss 14",
+    "subteachersss 15",
+    "subteachersss 16",
+    "subteachersss 17",
+    "subteachersss 18",
+    "subteachersss 19",
+    "subteachersss 20"
+];
 const availableclassroom = ["101", "102", "103", "104", "105", "106", "107", "108", "109", "110",'202'];
 
 app.get('/api/teachers', (req, res) => {
-    res.json(teachers);
+    res.json({teachers,subteachers});
 });
 
 app.get('/api/classrooms', (req, res) => {

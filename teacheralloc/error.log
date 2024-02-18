@@ -266,3 +266,115 @@
     at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\services\allocationService.js:13:63)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacher allocation backend\controllers\allocationController.js:6:27)
+2024-02-18T11:50:14.514Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:15.045Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:15.287Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:15.430Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:15.572Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:16.349Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:16.510Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:16.814Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:50:17.374Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:51:51.777Z - error: An error occurred: Error: Failed to fetch data from APIs
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:51:52.009Z - error: An error occurred: Error: Failed to fetch data from APIs
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:51:52.324Z - error: An error occurred: Error: Failed to fetch data from APIs
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:52:08.993Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:52:09.220Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:52:09.364Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:34.799Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:35.090Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:35.297Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:35.459Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:35.746Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:35.889Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:57:36.049Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-02-18T11:58:06.013Z - error: An error occurred: TypeError: teachers.sort is not a function
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:18:39)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
