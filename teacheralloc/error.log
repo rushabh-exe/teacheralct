@@ -378,3 +378,387 @@
     at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-08T18:54:46.501Z - error: Error fetching total teachers:
+2024-03-08T18:54:46.503Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:21:18.027Z - error: Error fetching total teachers:
+2024-03-09T13:21:18.028Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:21:19.911Z - error: Error fetching total teachers:
+2024-03-09T13:21:19.912Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:21:20.277Z - error: Error fetching total teachers:
+2024-03-09T13:21:20.277Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:21:43.284Z - error: Error fetching total teachers:
+2024-03-09T13:21:43.285Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:22:48.008Z - error: Error fetching total teachers:
+2024-03-09T13:22:48.009Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:22:48.277Z - error: Error fetching total teachers:
+2024-03-09T13:22:48.277Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:22:48.454Z - error: Error fetching total teachers:
+2024-03-09T13:22:48.454Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-09T13:23:05.440Z - error: Error fetching total teachers:
+2024-03-09T13:23:05.440Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T11:51:59.143Z - error: Error fetching total teachers:
+2024-03-10T11:51:59.143Z - error: An error occurred: Error: Failed to fetch total teachers
+    at exports.getTotalTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\teacherService.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:5:39)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T11:52:19.333Z - error: An error occurred: Error: Failed to fetch data from APIs
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T11:55:22.828Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:21:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T11:55:23.395Z - error: An error occurred: TypeError: Cannot read properties of undefined (reading 'length')
+    at allocateTeachers (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:21:36)
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:12:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T12:01:53.599Z - error: An error occurred: Error: Failed to fetch data from APIs
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T14:04:33.876Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:34.703Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:34.878Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:35.020Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:35.164Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:35.423Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:35.647Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:35.792Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:35.934Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:54.557Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:04:54.915Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:05:03.375Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:05:03.557Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:05:03.662Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:05:39.894Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:55.735Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:55.909Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:56.038Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:56.198Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:56.607Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:56.750Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:57.006Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:57.326Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:16:57.488Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:17:43.556Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:21:18.560Z - error: An error occurred: TypeError: allocationService.getAllotment is not a function
+    at exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:51)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\node_modules\express\lib\router\index.js:47:12)
+2024-03-10T14:23:48.028Z - error: An error occurred: ReferenceError: sendAllocationEmails is not defined
+    at Object.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:10:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T14:25:06.589Z - error: An error occurred: ReferenceError: sendAllocationEmails is not defined
+    at Object.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:10:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T14:25:07.091Z - error: An error occurred: ReferenceError: sendAllocationEmails is not defined
+    at Object.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:10:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T14:25:07.234Z - error: An error occurred: ReferenceError: sendAllocationEmails is not defined
+    at Object.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:10:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
+2024-03-10T14:27:03.977Z - error: An error occurred: ReferenceError: sendAllocationEmails is not defined
+    at Object.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\services\allocationService.js:10:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.getAllotment (C:\Users\Ayush\Desktop\dlp teachers allocation\teacherallocationservice\teacheralloc\controllers\allocationController.js:5:27)
